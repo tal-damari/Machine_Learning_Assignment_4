@@ -1,5 +1,5 @@
 # Machine_Learning_Assignment_4
-This assigment that I did during a course I am taking is about Data Cleasning and how to use our dataset to prepare it to be a better dataset to our model.
+This assigment that I did during a course I am taking called "Machine Learning" is about Data Cleasning and how to use our dataset to prepare it to be a better dataset to our model.
 
 The first two questions are not important, because they are for my identity.
 
